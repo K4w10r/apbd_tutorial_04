@@ -10,7 +10,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="570c5014-fc33-45f3-be5c-05f5acc6d46b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../test/abpd_03" beforeDir="false" afterPath="$PROJECT_DIR$/../test/abpd_03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial_04/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.tutorial_04/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tutorial_04/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.tutorial_04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tutorial_04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/Controllers/AnimalsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/Controllers/AnimalsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/Database/AnimalClinic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/Database/AnimalClinic.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/bin/Debug/net8.0/tutorial_04.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/bin/Debug/net8.0/tutorial_04.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/bin/Debug/net8.0/tutorial_04.exe" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/bin/Debug/net8.0/tutorial_04.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/bin/Debug/net8.0/tutorial_04.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/bin/Debug/net8.0/tutorial_04.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/ref/tutorial_04.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/ref/tutorial_04.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/refint/tutorial_04.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/refint/tutorial_04.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/Debug/net8.0/tutorial_04.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_04/obj/tutorial_04.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_04/obj/tutorial_04.csproj.nuget.dgspec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +42,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2euqNbQDw8iCfL6iBju3OgU6rPf" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -44,7 +68,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -111,6 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712764771907</updated>
       <workItem from="1712764772966" duration="6414000" />
+      <workItem from="1712843161249" duration="4633000" />
     </task>
     <task id="LOCAL-00001" summary="First and Final commit haha">
       <option name="closed" value="true" />

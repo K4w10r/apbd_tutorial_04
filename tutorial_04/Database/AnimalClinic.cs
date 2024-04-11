@@ -15,9 +15,10 @@ public class AnimalClinic
         AnimalList.Add(new Animal(){Id = 5, Name = "Marty", Category = "Zebra", FurColor = "White&Black", Weight = 5.5});
     }
 
-    public void add(Animal animal)
+    public bool add(Animal animal)
     {
         AnimalList.Add(animal);
+        return true;
     }
 
     public Animal getById(int id)

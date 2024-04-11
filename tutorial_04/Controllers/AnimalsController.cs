@@ -21,8 +21,10 @@ public class AnimalsController : ControllerBase
     [HttpPost]
     public IResult AddAnimal(string name, string furColor, string category, double weight)
     {
-        var Animals = Clinic.AnimalList;
-        Animals.Add(new Animal(){Id = Animals.Count, Category = category, Weight = weight, Name = name, FurColor = furColor});
+        if (!Clinic.add(new Animal()
+            {
+                Id = Clinic.AnimalList.Count, Category = category, Weight = weight, Name = name, FurColor = furColor
+            })) return Results.BadRequest();
         return Results.Created();
     }
 
